@@ -1,0 +1,150 @@
+ 
+  ----jGRASP exec: java cscd212lab3.CSCD212Lab3
+ Please enter the name of the input file teamlist.txt
+ The number of teams is: 4
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 1
+ 
+ Seattle - Seattle Seahawks
+ Payroll: $38,800,000.00
+ Taxes: $2,142,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Russell Wilson		543-34-9965		$22,000,000.00		Quarterback		120		3
+ Arthur Copperpants		992-32-1111		$1,500,000.00		Running Back		17		14
+ Peter Piper		523-55-9911		$300,000.00		Receiver		8		81
+ 
+ 
+ Seattle - Seattle Mariners
+ Payroll: $28,000,000.00
+ Taxes: $1,170,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Joe Schmoe		222-33-9823		$3,000,000.00		Catcher		0.245
+ Martin Olsen		234-23-1895		$10,000,000.00		Pitcher		0.362
+ 
+ 
+ Pittsburgh - Pittsburgh Penguins
+ Payroll: $106,200,000.00
+ Taxes: $8,188,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Sydney Crosby		111-33-4444		$90,000,000.00		Centre		87
+ Ian Cole		888-77-6666		$200,000.00		Defense		28
+ Phil Kessel		555-11-6666		$1,000,000.00		Right Wing		81
+ 
+ 
+ Pittsburgh - Pittsburgh Steelers
+ Payroll: $35,100,000.00
+ Taxes: $1,799,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Ben Roethlisberger		123-45-6789		$20,000,000.00		Quarterback		99		7
+ Keion Adams		123-46-9876		$100,000.00		Linebacker		2		99
+ 
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 2
+ 
+ Pittsburgh - Pittsburgh Penguins
+ Payroll: $106,200,000.00
+ Taxes: $8,188,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Sydney Crosby		111-33-4444		$90,000,000.00		Centre		87
+ Ian Cole		888-77-6666		$200,000.00		Defense		28
+ Phil Kessel		555-11-6666		$1,000,000.00		Right Wing		81
+ 
+ 
+ Pittsburgh - Pittsburgh Steelers
+ Payroll: $35,100,000.00
+ Taxes: $1,799,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Ben Roethlisberger		123-45-6789		$20,000,000.00		Quarterback		99		7
+ Keion Adams		123-46-9876		$100,000.00		Linebacker		2		99
+ 
+ 
+ Seattle - Seattle Mariners
+ Payroll: $28,000,000.00
+ Taxes: $1,170,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Joe Schmoe		222-33-9823		$3,000,000.00		Catcher		0.245
+ Martin Olsen		234-23-1895		$10,000,000.00		Pitcher		0.362
+ 
+ 
+ Seattle - Seattle Seahawks
+ Payroll: $38,800,000.00
+ Taxes: $2,142,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Russell Wilson		543-34-9965		$22,000,000.00		Quarterback		120		3
+ Arthur Copperpants		992-32-1111		$1,500,000.00		Running Back		17		14
+ Peter Piper		523-55-9911		$300,000.00		Receiver		8		81
+ 
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 3
+ 
+ Seattle - Seattle Mariners
+ Payroll: $28,000,000.00
+ Taxes: $1,170,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Joe Schmoe		222-33-9823		$3,000,000.00		Catcher		0.245
+ Martin Olsen		234-23-1895		$10,000,000.00		Pitcher		0.362
+ 
+ 
+ Pittsburgh - Pittsburgh Steelers
+ Payroll: $35,100,000.00
+ Taxes: $1,799,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Ben Roethlisberger		123-45-6789		$20,000,000.00		Quarterback		99		7
+ Keion Adams		123-46-9876		$100,000.00		Linebacker		2		99
+ 
+ 
+ Seattle - Seattle Seahawks
+ Payroll: $38,800,000.00
+ Taxes: $2,142,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Russell Wilson		543-34-9965		$22,000,000.00		Quarterback		120		3
+ Arthur Copperpants		992-32-1111		$1,500,000.00		Running Back		17		14
+ Peter Piper		523-55-9911		$300,000.00		Receiver		8		81
+ 
+ 
+ Pittsburgh - Pittsburgh Penguins
+ Payroll: $106,200,000.00
+ Taxes: $8,188,000.00
+ PLAYER NAME		SSN		SALARY		POSITION		STATS		JERSEY NUMBER
+ ----------------------------------------------------------------------------
+ Sydney Crosby		111-33-4444		$90,000,000.00		Centre		87
+ Ian Cole		888-77-6666		$200,000.00		Defense		28
+ Phil Kessel		555-11-6666		$1,000,000.00		Right Wing		81
+ 
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 

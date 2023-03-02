@@ -1,0 +1,32 @@
+--Personal file for listing current problems I need to fix--
+~~~ = Done
+??? = WIP
+
+~~~CSCD212LabMethods:
+	-fillArrayList method is close to working. I just need to figure out how I should create the
+FootballPlayer, BaseballPlayer, and HockeyPlayer objects with the variables I've already gathered. 
+Then I need to figure out how to turn those into a Player[] array, since the Team constructor 
+requires that (along with city and teamName)
+
+
+???Team:
+	-calculateTaxes() and calculatePayroll() are confusing to me, and the API does not make it
+obvious to me how I should work with these.
+	-toString() is just downright confusing. I'm not sure if I need to put a large String statement,
+variables, or both.
+
+
+???Player:
+	-Player() constructor may need some work, but this can wait until I've figured out the others
+
+
+???BaseballPlayer, FootballPlayer, HockeyPlayer:
+	-clone() methods in each SHOULD be fine, but it is a new topic. These may need some reworking
+for proper cloning to take place.
+
+
+~~~TeamPayrollComparator:
+	-The compare() method MAY be wrong, but I won't know until I get the code running.
+
+
+check for this. and final
